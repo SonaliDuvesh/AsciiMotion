@@ -18,7 +18,7 @@
 
   <br />
 
-  <img src="assets/demo.gif" alt="AsciiMotion Live Demo" width="90%" style="border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.6);" />
+  <img src="assets/demo2.gif" alt="AsciiMotion Live Demo" width="90%" style="border-radius: 8px; box-shadow: 0 8px 32px rgba(0,0,0,0.6);" />
 
 </div>
 
