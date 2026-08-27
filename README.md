@@ -13,7 +13,7 @@
   [![Platform](https://img.shields.io/badge/Platform-100%25%20Client--Side-388bfd?style=for-the-badge)](index.html)
 
   <p align="center">
-    <b>AsciiMotion</b> is a high-performance, client-side web application that converts local videos and live webcam streams into vibrant ASCII art in real-time. Features live playback, monochrome terminal themes, 24-bit per-pixel RGB color rendering, high-definition video export (WebM/MP4), animated GIF creation, and standalone HTML embeds — all processed 100% in your browser.
+    <b>AsciiMotion</b> is a high-performance, client-side web application that converts local videos and live webcam streams into vibrant ASCII art in real-time. Features live playback, monochrome terminal themes, 24-bit per-pixel RGB color rendering, high-definition video export (WebM/MP4), animated GIF creation, and standalone HTML embeds - all processed 100% in your browser.
   </p>
 
   <br />
@@ -45,13 +45,13 @@
 
 AsciiMotion includes pre-tuned themes and classic character ramps designed for maximum contrast and visual density:
 
-- **Matrix Terminal** — Signature green-on-black terminal typography (`@#%*+=-:. `)
-- **▓ Retro IBM** — Classic MS-DOS shaded block characters (`█▓▒░ `)
-- **⣿ Braille (Hi-Res)** — Ultra-dense 2×4 subpixel dot grid (`0x2800..0x28FF`)
-- **Detailed** — 10-level luminance character gradient (`@%#*+=-:. `)
-- **Simple** — Clean high-contrast ASCII ramp (`#*+-:. `)
-- **Blocks** — Block shading ramp (`█▓▒░ `)
-- **Binary** — Digital matrix stream (`01 `)
+- **Matrix Terminal** - Signature green-on-black terminal typography (`@#%*+=-:. `)
+- **▓ Retro IBM** - Classic MS-DOS shaded block characters (`█▓▒░ `)
+- **⣿ Braille (Hi-Res)** - Ultra-dense 2×4 subpixel dot grid (`0x2800..0x28FF`)
+- **Detailed** - 10-level luminance character gradient (`@%#*+=-:. `)
+- **Simple** - Clean high-contrast ASCII ramp (`#*+-:. `)
+- **Blocks** - Block shading ramp (`█▓▒░ `)
+- **Binary** - Digital matrix stream (`01 `)
 
 ---
 
